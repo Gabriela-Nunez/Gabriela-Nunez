@@ -30,6 +30,5 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Gabriela-Nunez&show_icons=true&theme=jolly" />
      
-<img align="right" width="47%" src="github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Nunez&layout=compact" />  
-
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Nunez&langs_count=8" />  
 
