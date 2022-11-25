@@ -17,7 +17,11 @@ Skills:  REACT / JS / HTML / CSS
  ⚡ Fun fact: I love to read 📚, enjoy bullet journaling 📖, and dancing 💃 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gabriela-Nunez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabriela-nunez-81338b24a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gabdie_/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gabriela-Nunez) 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gabriela-nunez-81338b24a/)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gabdie_/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Nunez)](https://github.com/anuraghazra/github-readme-stats)
 
