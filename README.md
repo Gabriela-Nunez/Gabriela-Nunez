@@ -28,6 +28,8 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela-Nunez&show_icons=true&theme=jolly)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Gabriela-Nunez&show_icons=true&theme=jolly" />
+     
+<img align="right" width="47%" src="github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Nunez&layout=compact" />  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Nunez&layout=compact)](https://github.com/Gabriela-Nunez/github-readme-stats)
+
