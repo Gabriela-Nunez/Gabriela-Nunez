@@ -30,4 +30,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriela-Nunez&show_icons=true&theme=jolly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Nunez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Nunez&layout=compact)](https://github.com/Gabriela-Nunez/github-readme-stats)
