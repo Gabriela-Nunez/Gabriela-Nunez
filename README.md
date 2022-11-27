@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Gabriela
 
-🔭 I’m currently a student at BloomTech Institute of Technology.
+🔭 I’m a student at BloomTech Institute of Technology.
 
  🌱 I’m currently perfecting my learning in Javascrip, React, CSS, HTML.
  
