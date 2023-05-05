@@ -1,10 +1,6 @@
 # Hi there 👋, my name is Gabriela
 
-🔭 I’m a student at BloomTech Institute of Technology.
-
- 🌱 I’m currently perfecting my learning in Javascrip, React, CSS, HTML.
- 
- 💬 Ask me about JavaScript, HTML, CSS, and React.
+ 💬 Ask me about JavaScript, HTML, CSS, React, Node.JS.
  
  📫 Reach me at nunezgabriela@outlook.com
  
