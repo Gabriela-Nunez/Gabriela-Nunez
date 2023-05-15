@@ -1,15 +1,19 @@
-# Hi there 👋, my name is Gabriela
-
- 💬 Ask me about JavaScript, HTML, CSS, React, Node.JS.
- 
- 📫 Reach me at nunezgabriela@outlook.com
- 
- 😄 Pronouns: She/ Her
- 
- ⚡ Fun fact: I love to read 📚, enjoy bullet journaling 📖, and dancing 💃 
+#Hi there! 👋 My name is Gabriela,  a passionate tech enthusiast and lifelong learner ready to embark on an exciting journey in the world of technology.
 
 
-  
+🌐 I have a strong desire to explore various aspects of the tech field and constantly expand my knowledge and skills. With a curious mind and a determination to solve complex problems, I'm eager to contribute to innovative projects and make a positive impact on the digital landscape.
+
+💬 I specialize in JavaScript, HTML, CSS, React, and Node.js. If you have any questions or need assistance with these technologies, don't hesitate to reach out. I'm always eager to engage in discussions and share my knowledge.
+
+⚡ Beyond coding, I have a few passions that keep me energized. I'm an avid reader and can recommend some great books if you're looking for a captivating read. When I'm not immersed in tech, you'll often find me indulging in my love for bullet journaling, where I combine creativity and organization. 
+
+🔬 Collaborating with like-minded individuals and being part of a supportive tech community is important to me. I believe in the power of teamwork, knowledge-sharing, and continuous improvement. Let's connect and learn from each other as we strive for excellence together.
+
+✨ I'm excited to leverage my skills, creativity, and dedication to contribute to meaningful projects that push the boundaries of what technology can achieve. Join me as I embrace this ever-evolving tech landscape and create a positive impact one line of code at a time!
+
+😄 Pronouns: She/Her. 
+
+📫 Feel free to reach out to me via email [nunezgabriela@outlook.com](mailto:nunezgabriela@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielanunez-/). Let's build something amazing together!
 
 ![Profile views](https://gpvc.arturio.dev/Gabriela-Nunez)  
 
