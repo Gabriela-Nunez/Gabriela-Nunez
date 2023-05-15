@@ -1,4 +1,4 @@
-#Hi there! 👋 My name is Gabriela,  a passionate tech enthusiast and lifelong learner ready to embark on an exciting journey in the world of technology.
+#Hi there! 👋 My name is Gabriela,  a passionate tech enthusiast ready to embark on an exciting journey in the world of technology.
 
 
 🌐 I have a strong desire to explore various aspects of the tech field and constantly expand my knowledge and skills. With a curious mind and a determination to solve complex problems, I'm eager to contribute to innovative projects and make a positive impact on the digital landscape.
