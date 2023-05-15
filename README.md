@@ -28,8 +28,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Gabriela-Nunez&show_icons=true&theme=jolly" />
-     
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Nunez&layout=donut" />   
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Gabriela-Nunez&show_icons=true&theme=tokyonight" />
+  
 
 
