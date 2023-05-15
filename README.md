@@ -32,3 +32,4 @@
      
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Nunez&layout=compact" />   
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriela-Nunez&size_weight=0.5&count_weight=0.5)](https://github.com/Gabriela-Nunez/github-readme-stats)
