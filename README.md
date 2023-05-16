@@ -1,6 +1,5 @@
 # Hi there! 👋 My name is Gabriela!  
-### A passionate tech enthusiast ready to embark on an exciting journey in the world of technology.
-
+#### A passionate problem-solving engineer ready to tackle complex challenges and make a difference through technology.
 
 🌐 I have a strong desire to explore various aspects of the tech field and constantly expand my knowledge and skills. With a curious mind and a determination to solve complex problems, I'm eager to contribute to innovative projects and make a positive impact on the digital landscape.
 
