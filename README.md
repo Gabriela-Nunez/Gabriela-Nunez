@@ -3,7 +3,7 @@
 
 🌐 I have a strong desire to explore various aspects of the tech field and constantly expand my knowledge and skills. With a curious mind and a determination to solve complex problems, I'm eager to contribute to innovative projects and make a positive impact on the digital landscape.
 
-💬 I specialize in Front-End Development. If you have any questions or need assistance with these technologies, don't hesitate to reach out. I'm always eager to engage in discussions and share my knowledge.
+💬 I specialize in crafting responsive and visually appealing websites. I love working on the front lines of web development, transforming designs into pixel-perfect, interactive websites that captivate users and drive engagement.
 
 ⚡ Beyond coding, I have a few passions that keep me energized. I'm an avid reader and can recommend some great books if you're looking for a captivating read. When I'm not immersed in tech, you'll often find me indulging in my love for bullet journaling, where I combine creativity and organization. 
 
