@@ -13,7 +13,7 @@
 
 😄 Pronouns: She/Her. 
 
-📫 Feel free to reach out to me via email [nunezgabriela@outlook.com](mailto:nunezgabriela@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielanunez-/). Let's build something amazing together!
+📫 Feel free to reach out to me via email [nunezgabriela@outlook.com](mailto:nunezgabriela@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nunezgabriela/). Let's build something amazing together!
 
 ![Profile views](https://gpvc.arturio.dev/Gabriela-Nunez)  
 
